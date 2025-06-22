@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Alexa edge company SA</finalName>
+		<finalName>Alexa-edge-company</finalName>
 		
 		<plugins>
 			<plugin>
