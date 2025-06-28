@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>alexa edge Releases Nexus Repository</name>
-	      <url>http://44.211.159.129:8081/repository/bank-app-release/</url>
+	      <url>http://54.175.8.150:8081/repository/bank-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Alexa edge systems Snapshot Nexus Repository </name>
-	      <url>http://44.211.159.129:8081/repository/Bank-app-snapshots/</url>
+	      <url>http://54.175.8.150:8081/repository/Bank-app-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
