@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Alexa edge systems Snapshot Nexus Repository </name>
-	      <url>http://http://3.21.159.139:8081/repository/bank-app-snapshot//</url>
+	      <url>http://http://3.21.159.139:8081/repository/bank-app-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
