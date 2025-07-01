@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.175.8.150:8081/repository/bank-app-release/</url>
+	      <url>http://52.14.52.243:8081/repository/bank-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.175.8.150:8081/repository/Bank-app-snapshots/</url>
+	      <url>http://52.14.52.243:8081/repository/bank-app-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
